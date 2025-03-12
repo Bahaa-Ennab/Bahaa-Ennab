@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Bahaa Ennab
 
-Welcome to my GitHub profile! I'm a **Geography Teacher, Surveyor, and Developer in Training** passionate about **GIS, Web Development, and Data Analysis**.  
+Welcome to my GitHub profile! I'm a **Surveyor and Developer in Training** passionate about **GIS, Web Development, and Data Analysis**.  
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a **Geography Teacher** and have experience as a **Surveyor**.
-- 🌱 I’m learning **HTML, CSS, and JavaScript** at **AXSOS Academy**.
+- 🌱 I’m currently learning **HTML, CSS, and JavaScript** at **AXSOS Academy**.
+- 🎯 I recently paused my teaching career to focus on learning and skill development.
 - 🗺️ I have a strong background in **GIS, AutoCAD, and Civil 3D**.
 - 💡 I’m interested in **Web Development, GIS Mapping, and Digital Innovation**.
 - 💬 Ask me about **Surveying, GIS Software (ArcMap, AutoCAD), and Frontend Development**.
@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a **Geography Teacher, Surveyor, and Developer
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/baha-enab-747641281/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Bahaenab@gmail.com)
 
 ---
 
