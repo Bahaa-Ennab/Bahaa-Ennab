@@ -23,8 +23,6 @@ Welcome to my GitHub profile! I'm a **Surveyor and Developer in Training** passi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahaa-Ennab&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bahaa-Ennab&theme=tokyonight)
-
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/baha-enab-747641281/))
