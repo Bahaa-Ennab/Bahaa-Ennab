@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Full-Stack Developer with a Geospatial Background*
 ---
 
 ## 🚀 About Me
-- 💻 Currently a Full-Stack Developer Trainee at **AXSOS Academy**, mastering **Python, Django, and MERN Stack** technologies.
+- 💻 Currently a Full-Stack Developer Trainee at **AXSOS Academy**, mastering **Python, Django, ,JAVA <Bootstrap and MERN Stack** technologies.
 - 🌍 B.A. in **Geography with a minor in Geomatics** from An-Najah National University.
 - 🎯 Former **Surveyor** and **Geography Teacher**, now bringing spatial awareness into the digital world.
 - 🔍 Interested in **geospatial tech**, **web apps**, **digital mapping**, and **urban innovation**.
